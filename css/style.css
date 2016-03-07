@@ -17,7 +17,10 @@
 		text-align: justify;
     margin-top: 10px;
 	}
-
+.tab-label{
+	  margin: 10px;
+		line-height: 40px;
+}
 	nav a {
 		display: block;
     height: 40px;
@@ -29,8 +32,8 @@
 	}
 
 	nav a:hover, nav a:focus, nav a:active {
-		color: #fff;
-		background: #a90064;
+		color: #a90064;
+		background: #eee;
 	}
 	/* Theming closed nav */
 

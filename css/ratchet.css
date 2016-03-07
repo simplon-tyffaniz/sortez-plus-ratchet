@@ -563,7 +563,7 @@ input[type="button"] {
   vertical-align: middle;
 }
 .bar-tab .tab-item.active, .bar-tab .tab-item:active {
-  color: #428bca;
+  color: #eee;
 }
 .bar-tab .tab-item .icon {
   top: 3px;
